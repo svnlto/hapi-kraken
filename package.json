@@ -1,0 +1,26 @@
+{
+  "name": "hapi-kraken",
+  "description": "Hapi plugin for Kraken.io Image Optimizer",
+  "homepage": "https://github.com/svnlto/hapi-kraken",
+  "author": "Sven Lito <me@svenlito.com>",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/svnlto/hapi-kraken.git"
+  },
+  "keywords": [
+    "kraken",
+    "kraken.io",
+    "image optimizer",
+    "amazon",
+    "s3",
+    "rackspace",
+    "cloudfiles"
+  ],
+  "devDependencies": {
+    "hapi": "^6.2.2"
+  },
+  "dependencies": {
+    "joi": "^4.6.2"
+  }
+}
